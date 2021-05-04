@@ -33,7 +33,7 @@ export class YouTubePlayer
 				errorMessage = 'Invalid ID value';
 				break;
 			case 5:
-				errorMessage = 'Content is not supporte don HTML5 player';
+				errorMessage = 'Content is not supported by HTML5 player';
 				break;
 			case 100:
 				errorMessage = 'Video not found';
